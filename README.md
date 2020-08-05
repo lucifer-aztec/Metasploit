@@ -2,7 +2,7 @@
 
 
 
-# INSTALLATION In TERMUX
+# INSTALLATION IN TERMUX 📱
 
 
 # Commands
